@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # skin-eform Marine
 
 =======
